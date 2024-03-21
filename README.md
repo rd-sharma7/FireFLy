@@ -1,2 +1,2 @@
-# FireFLy
-A chatting application made with love 💌 by Krati , Titu , Shivtar, @rd-sharma7
+#FireFLy
+ lots of error will be on path , be motivated to  overcome with them !!
